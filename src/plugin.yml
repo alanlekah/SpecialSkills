@@ -1,0 +1,15 @@
+name: SpecialSkills
+version: 1.0
+description: Leather armor dodge-based plugin
+author: Allek15
+main: com.allek.mc.SpecialSkills.Main
+
+commands:
+    specialskills:
+        description: Give player leather armor with special lores
+        usage: /specialskills
+        permission: specialskills.gift
+
+permissions:
+    specialskills.gift:
+        description: Gives player ability to create leather armor with special lore with the ability to dodge

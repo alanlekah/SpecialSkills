@@ -1,0 +1,18 @@
+#############################
+# SpecialSkills Config File #
+#############################
+
+### PERCENTAGE OF DODGE ###
+###
+### Make sure to input percentage as a whole number, i.e. (10, 25, 30, 45, 60, etc)
+###
+### This value will be the percentage out of 100% which will dodge an attack
+###
+DODGE_PERCENTAGE: 10
+
+### CHESTPLATE MESSAGE ###
+CHESTPLATE_LORE: "&7Dodge Skill"
+
+### MESSAGE BROADCASTED WHEN DODGED ###
+DODGE_MESSAGE: "&eDodge Skill Active"
+
